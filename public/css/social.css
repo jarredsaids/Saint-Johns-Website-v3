@@ -1,0 +1,217 @@
+
+.headline{
+  text-align:center;
+  text-decoration: none;
+ 
+}
+.headline  h1{
+    font-size:35px;
+    font-family: 'Montserrat', sans-serif;
+    color:#fff;
+	text-decoration: none;
+  }
+
+.social-buttons{
+  display:inline-block;
+  background: rgba(256,256,256,0.5);
+  padding:20px;
+  padding-bottom: 5px;
+  border-radius:10px;
+  text-align:center;
+  margin:20px 10px;
+  box-shadow: 0px 0px 32px -7px #00199f;
+  text-decoration: none;
+}
+  
+/* Helper class to divide the icons */
+.social-margin {
+  margin-right: 0px;
+}
+
+a,
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
+}
+
+.social-icon {
+  margin-bottom: 0px;
+   box-sizing: border-box;
+  -moz-border-radius: 138px;
+  -webkit-border-radius: 138px;
+  border-radius: 138px;
+  border: 1px solid;
+  text-align: center;
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+  line-height: 1px;
+  padding-top: 11px;
+  transition: all 0.5s;
+  text-decoration: none;
+}
+.social-icon:hover {
+    transform: rotate(360deg)scale(1.3);
+	    text-decoration: none;
+  }
+  /* Facebook Button Styling */
+ .facebook {
+    font-size: 22px;
+    padding-top: 9px;
+    border-color: #3b5998;
+    background-color: #3b5998;
+    color: #ffffff;
+   
+  }
+  .facebook:hover {
+    background-color: #ffffff;
+    color: #3b5998;
+	text-decoration: none;
+  }
+  /* Twitter Button Styling */
+.twitter {
+    font-size: 22px;
+    padding-top: 10px;
+    padding-left: 2px;
+    border-color: #55acee;
+    background-color: #55acee;
+    color: #ffffff;
+	text-decoration: none;
+    
+  }
+  .twitter:hover {
+    background-color: #ffffff;
+    color: #55acee;
+	text-decoration: none;
+  }
+  /* Google+ Button Styling */
+  .google-plus {
+    font-size: 22px;
+    padding-top: 9px;
+    padding-left: 2px;
+    background-color: #dd4b39;
+    color: #ffffff;
+    border-color: #dd4b39;
+	text-decoration: none;
+    
+  }
+  .google-plus :hover {
+    background-color: #ffffff;
+    color: #dd4b39;
+	text-decoration: none;
+  }
+  /* Linkedin Button Styling */
+  .linkedin {
+    font-size: 24px;
+    padding-top: 8px;
+    padding-left: 1px;
+    background-color: #0976b4;
+    color: #ffffff;
+    border-color: #0976b4;
+	text-decoration: none;
+    
+  }
+  .linkedin :hover {
+    background-color: #ffffff;
+    color: #0976b4;
+	text-decoration: none;
+  }
+  /* Pinterest Button Styling */
+.pinterest {
+    font-size: 22px;
+    padding-top: 9px;
+    background-color:  #cb2027;
+    color: #ffffff;
+    border-color:  #cb2027;
+	text-decoration: none;
+    
+  }
+  .pinterest:hover {
+    background-color: #ffffff;
+    color:  #cb2027;
+	text-decoration: none;
+  }
+  /* Behance Button Styling */
+  .behance {
+    font-size: 22px;
+    padding-top: 9px;
+    background-color: #1769ff;
+    color: #ffffff;
+    border-color: #1769ff;
+	text-decoration: none;
+    
+  }
+  .behance :hover {
+    background-color: #ffffff;
+    color: #1769ff;
+	text-decoration: none;
+  }
+
+  /* Github Button Styling */
+ .github {
+    font-size: 22px;
+    padding-top: 9px;
+    background-color: #4183c4;
+    color: #ffffff;
+    border-color: #4183c4;
+	text-decoration: none;
+    
+  }
+  .github:hover {
+    background-color: #ffffff;
+    color: #4183c4;
+	text-decoration: none;
+  }
+  /* Youtube Button Styling */
+ .youtube {
+    font-size: 22px;
+    padding-top: 9px;
+    padding-left: 0px;
+    background-color: #bb0000;
+    color: #ffffff;
+    border-color: #bb0000;
+	text-decoration: none;
+    
+  }
+  .youtube  :hover {
+    background-color: #ffffff;
+    color: #bb0000;
+	text-decoration: none;
+  }
+  /* Soundcloud Button Styling */
+  .soundcloud {
+    font-size: 22px;
+    padding-top: 9px;
+    padding-left: 0px;
+    background-color: #ff3a00;
+    color: #ffffff;
+    border-color: #ff3a00;
+	text-decoration: none;
+    
+  }
+  .soundcloud :hover {
+    background-color: #ffffff;
+    color: #ff3a00;
+	text-decoration: none;
+  }
+    /* Soundcloud Button Styling */
+  .instagram {
+    font-size: 22px;
+    padding-top: 9px;
+    padding-left: 0px;
+    background-color: #8a3ab9;
+    color: #ffffff;
+    border-color: #8a3ab9;
+	text-decoration: none;
+    
+  }
+  .instagram :hover {
+    background-color: #ffffff;
+    color: #8a3ab9;
+	text-decoration: none;
+  }
+  
+  .on-hover :hover {
+	opacity: 0.5;
+  }
