@@ -16,3 +16,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', 'PagesController@index');
 Route::get('/event', 'PagesController@events');
 Route::get('/gallery', 'PagesController@gallery');
+Route::get('/location', 'PagesController@location');
+Route::get('/people', 'PagesController@people');
+Route::get('/visit', 'PagesController@visit');
