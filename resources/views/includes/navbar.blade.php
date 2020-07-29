@@ -16,10 +16,10 @@
                     Galleries
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="/gallary#churchtour">Church Tour</a>
-                    <a class="dropdown-item" href="/gallary#worship">Worship</a>
-                    <a class="dropdown-item" href="/gallary#congregation">Congregation</a>
-                    <a class="dropdown-item" href="/gallary#youthgroup">Youth Group</a>
+                    <a class="dropdown-item" href="/gallery#churchtour">Church Tour</a>
+                    <a class="dropdown-item" href="/gallery#worship">Worship</a>
+                    <a class="dropdown-item" href="/gallery#congregation">Congregation</a>
+                    <a class="dropdown-item" href="/gallery#youthgroup">Youth Group</a>
                 </div>
             </li>
             <li class="nav-item dropdown active">
@@ -54,6 +54,29 @@
                     <a class="dropdown-item" href="http://onlinelutheranbiblestudy.weebly.com/bible-studies.html"
                        target="blank" style="float: none; width: auto;">Bible Studies</a>
                 </div>
+            </li>
+            <li class="mt-2">
+                <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+
+                    <!-- Identify your business so that you can collect the payments. -->
+                    <input type="hidden" name="Saint John's Lutheran Church"
+                           value="stjohnsluth740@gmail.com">
+
+                    <!-- Specify a Donate button. -->
+                    <input type="hidden" name="cmd" value="_donations">
+
+                    <!-- Specify details about the contribution -->
+                    <input type="hidden" name="item_name" value="Spiritual Offering">
+                    <input type="hidden" name="currency_code" value="USD">
+
+                    <!-- Display the payment button. -->
+                    <input type="image" name="submit"
+                           src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"
+                           alt="Donate">
+                    <img alt="" width="1" height="1"
+                         src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" >
+
+                </form>
             </li>
         </ul>
     </div>

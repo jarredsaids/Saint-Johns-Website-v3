@@ -36,11 +36,11 @@
     <!--Bootstrap 4.5.0-->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
 
-
+    <!--Galleria-->
+    <style>.galleria{ width: 700px; height: 400px; background: #000 }</style>
 </HEAD>
-<TITLE>{{$title}}</TITLE>
+<TITLE>SJ - {{$title}}</TITLE>
 <body>
-
 
 <div class="p-4"></div>
 <div class="container" style="background-color: white;">

@@ -1,5 +1,5 @@
 <!-- Footer Start -->
-
+<hr>
 <footer id="footer">
 
     <div id="footer-left">

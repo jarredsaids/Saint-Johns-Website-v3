@@ -1,14 +1,14 @@
 jQuery(document).ready(function ($) {
 
     var dt = new Date();
-    var m = dt.getMonth() + 1;
-    var dy = dt.getDate();
-    var y = dt.getFullYear();
+     var m = dt.getMonth() + 1;
+     var dy = dt.getDate();
+     var y = dt.getFullYear();
 
     /**  TEST DATES  **/
-    // var m = 5;
-    // var dy = 25;
-    // var y = 2026;
+      // var m = 10;
+      // var dy = 31;
+      // var y = 2021;
 
     var color = "#6a8fab";
     var alt_color = "#486d89";
@@ -60,6 +60,10 @@ jQuery(document).ready(function ($) {
                 color = '#f7aaed';
                 alt_color = '#d588cb';
                 backstretch = 'images/backgrounds/easter.jpg';
+            }else if (m == 5 && dy == 31) {
+                color = '#595959';
+                alt_color = '#262626';
+                backstretch = 'images/backgrounds/memorial.jpg';
             }
         } else if (y == 2022) {
             if (m == 4 && dy == 17) {
@@ -116,7 +120,26 @@ jQuery(document).ready(function ($) {
         }
     }
     jQuery.backstretch(backstretch);
-    document.getElementById("insideLabel").innerHTML = '<style type="text/css"> .badge-secondary, .view-cap, .date-label, .day, .agenda-scrollboxBoundary, .view-container-border {background:  ' + color + ' !important;} .jumbotron, .navbar-toggler {background-color:  ' + alt_color + ' !important;}</style>';
-    document.getElementById("menuStyle").innerHTML = '<style type="text/css"> .nav-link:hover {color: '+ alt_color +' !important;} .nav-link {color: white;!important}  .navbar, .dropdown-item, .dropdown-menu {color: white !important; background-color: ' + color + ' !important;} .dropdown-item:hover{background-color:  ' + alt_color + ' !important;}</style>';
-    document.getElementById("bday-style").innerHTML = '<style type="text/css"> .alert {margin: auto; background-color:  ' + color + ' !important; padding: 10px; color: white !important;} .close {margin-left: 10px; color: white;!important font-weight: bold; float: right; font-size: 22px; line-height: 20px; cursor: pointer; transition: 0.3s; } .close:hover {color: black !important;} #bday-table {width: 100%; color: white;} .bday-header {background-color: ' + alt_color + ' !important; color: white !important; font-weight: bold; text-align: center;}</style>';
-});
+    if (document.getElementById("insideLabel")){
+        document.getElementById("insideLabel").innerHTML = '<style type="text/css"> .badge-secondary, .view-cap, .date-label, .day, .agenda-scrollboxBoundary, .view-container-border {background:  ' + color + ' !important;} .jumbotron, .navbar-toggler {background-color:  ' + alt_color + ' !important;}</style>';
+    }
+    if (document.getElementById("menuStyle")){
+        document.getElementById("menuStyle").innerHTML = '<style type="text/css"> .pic-row {background-color: ' + alt_color +'} .nav-link:hover {color: '+ alt_color +' !important;} .nav-link {color: white !important;}  .navbar, .dropdown-item, .dropdown-menu {color: white !important; background-color: ' + color + ' !important;} .dropdown-item:hover{background-color:  ' + alt_color + ' !important;}</style>';
+    }
+    if (document.getElementById("bday-style")){
+        document.getElementById("bday-style").innerHTML = '<style type="text/css"> .alert {margin: auto; background-color:  ' + color + ' !important; padding: 10px; color: white !important;} .close {margin-left: 10px; color: white !important; font-weight: bold; float: right; font-size: 22px; line-height: 20px; cursor: pointer; transition: 0.3s; } .close:hover {color: black !important;} #bday-table {width: 100%; color: white;} .bday-header {background-color: ' + alt_color + ' !important; color: white !important; font-weight: bold; text-align: center;}</style>';
+    }
+    if (document.getElementById("gallery-changes")){
+        document.getElementById("gallery-changes").innerHTML = '<style type="text/css"> .gallery-hover:hover{opacity: 50%;} .gallery-tab a {color: white; text-decoration: none;} .gallery-tab {background-color: ' + color + ' !important;}</style>';
+    }
+    if (document.getElementById("events-css")){
+        document.getElementById("events-css").innerHTML = '<style type="text/css"> .event-title {background-color: ' + alt_color + ' !important;}</style>';
+    }
+    if (document.getElementById("location-css")){
+        document.getElementById("location-css").innerHTML = '<style type="text/css"> .btn:hover {opacity: 60%;} .btn {color: white; background-color: ' + color + ';} .location-bar {background-color: ' + alt_color + ' !important; color: white; !important}</style>';
+    }
+    if (document.getElementById("visit-css")){
+        document.getElementById("visit-css").innerHTML = '<style type="text/css"> .btn:hover {opacity: 60%;} .btn {color: white !important;} .btn {padding: 2px; background-color: ' + alt_color + ';}</style>';
+    }
+})
+
