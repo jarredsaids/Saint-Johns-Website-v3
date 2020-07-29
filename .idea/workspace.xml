@@ -23,159 +23,206 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5495f79-e8f1-4dce-80b9-60bc5a9c9f87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SaintJohns3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/Laravel_7_21_20__10_40_PM.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/laravel-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/phpunit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webResources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/PagesController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/galleria.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/galleria.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/plugins/flickr/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/plugins/flickr/galleria.flickr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/plugins/flickr/galleria.flickr.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/plugins/history/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/plugins/history/galleria.history.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/plugins/history/galleria.history.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/azur/demo-cdn.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/azur/demo-retina.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/azur/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/azur/galleria.azur.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/azur/galleria.azur.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/azur/galleria.azur.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/azur/galleria.azur.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/classic/demo-cdn.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/classic/demo-retina.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/classic/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/classic/galleria.classic.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/classic/galleria.classic.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/classic/galleria.classic.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/classic/galleria.classic.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/folio/demo-cdn.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/folio/demo-retina.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/folio/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/folio/galleria.folio.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/folio/galleria.folio.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/folio/galleria.folio.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/folio/galleria.folio.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/fullscreen/demo-cdn.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/fullscreen/demo-retina.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/fullscreen/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/fullscreen/galleria.fullscreen.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/fullscreen/galleria.fullscreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/fullscreen/galleria.fullscreen.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/fullscreen/galleria.fullscreen.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/fullscreen/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/miniml/demo-cdn.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/miniml/demo-retina.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/miniml/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/miniml/galleria.miniml.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/miniml/galleria.miniml.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/miniml/galleria.miniml.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/miniml/galleria.miniml.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/twelve/demo-cdn.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/twelve/demo-retina.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/twelve/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/twelve/galleria.twelve.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/twelve/galleria.twelve.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/twelve/galleria.twelve.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/galleria/themes/twelve/galleria.twelve.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Tour/WHDoor.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Tour/bulletin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Tour/choir.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Tour/church.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Tour/doors.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Tour/gathering.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Tour/hall1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Tour/hall2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Tour/hall3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Tour/inside.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Tour/inside1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Tour/inside2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Tour/inside3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Tour/library.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Tour/meeting.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Tour/nursery.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Tour/office.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Tour/parking1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Tour/parking2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Tour/poffice.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Tour/sign.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Tour/smallroom.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Tour/study.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Tour/turnback.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Tour/visitors.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Worship/Worship2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Worship/Worship3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Worship/Worship4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Worship/Worship5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Worship/Worship6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Worship/Worship7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Worship/Worship8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Youth/youth1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Youth/youth10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Youth/youth11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Youth/youth2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Youth/youth3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Youth/youth4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Youth/youth5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Youth/youth6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Youth/youth7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Youth/youth8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/Youth/youth9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/congregation/cong1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/congregation/cong2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/congregation/cong3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/congregation/cong4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/congregation/cong5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/congregation/cong6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/congregation/cong7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/congregation/cong8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Gallery/congregation/cong9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/backgrounds/christmas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/backgrounds/easter.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/backgrounds/fireworks.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/backgrounds/flag.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/backgrounds/newyear.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/backgrounds/pumpkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/backgrounds/sun.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/backgrounds/thanksgiving.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/backgrounds/valentine.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/dark-overlay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/footer-icon-sprites.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/footer-icon-sprites@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/group-960x250.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/icon-sprites.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logo_55.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/mobile-menu-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/mobile-menu-bg@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/nalc-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/play-button@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/proclaimer_55.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/slider-control-nav@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/texture-bar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/texture-dark-overlay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/texture-left-bar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/texture-overlay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/texture-solid.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/wings55.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/devicepx-jetpack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/hoverIntent.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-3.5.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/wp-embed.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/publications/bulletin.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/publications/goodnews.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/publications/wingsnewsletter.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/includes/bdays.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/includes/footer.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/includes/navbar.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/pages/events.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/pages/gallery.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Events/generic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/README.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/galleria.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/galleria.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/plugins/flickr/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/plugins/flickr/galleria.flickr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/plugins/flickr/galleria.flickr.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/plugins/history/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/plugins/history/galleria.history.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/plugins/history/galleria.history.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/azur/demo-cdn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/azur/demo-retina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/azur/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/azur/galleria.azur.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/azur/galleria.azur.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/azur/galleria.azur.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/azur/galleria.azur.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/classic/demo-cdn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/classic/demo-retina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/classic/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/classic/galleria.classic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/classic/galleria.classic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/classic/galleria.classic.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/classic/galleria.classic.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/folio/demo-cdn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/folio/demo-retina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/folio/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/folio/galleria.folio.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/folio/galleria.folio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/folio/galleria.folio.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/folio/galleria.folio.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/fullscreen/demo-cdn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/fullscreen/demo-retina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/fullscreen/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/fullscreen/galleria.fullscreen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/fullscreen/galleria.fullscreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/fullscreen/galleria.fullscreen.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/fullscreen/galleria.fullscreen.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/fullscreen/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/miniml/demo-cdn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/miniml/demo-retina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/miniml/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/miniml/galleria.miniml.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/miniml/galleria.miniml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/miniml/galleria.miniml.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/miniml/galleria.miniml.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/twelve/demo-cdn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/twelve/demo-retina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/twelve/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/twelve/galleria.twelve.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/twelve/galleria.twelve.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/twelve/galleria.twelve.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/dist/themes/twelve/galleria.twelve.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/galleria.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/plugins/flickr/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/plugins/flickr/galleria.flickr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/plugins/history/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/plugins/history/galleria.history.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/azur/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/azur/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/azur/bgie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/azur/demo-cdn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/azur/demo-retina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/azur/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/azur/fscreen-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/azur/fscreen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/azur/galleria-inline.azur.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/azur/galleria.azur.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/azur/galleria.azur.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/azur/left-small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/azur/left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/azur/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/azur/playpause-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/azur/playpause-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/azur/right-small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/azur/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/azur/thumbleft-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/azur/thumbleft-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/azur/thumbright-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/azur/thumbright-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/classic/classic-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/classic/classic-map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/classic/demo-cdn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/classic/demo-retina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/classic/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/classic/galleria-inline.classic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/classic/galleria.classic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/classic/galleria.classic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/folio/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/folio/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/folio/cursor-zoom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/folio/demo-cdn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/folio/demo-retina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/folio/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/folio/galleria-inline.folio.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/folio/galleria.folio.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/folio/galleria.folio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/folio/left-cursor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/folio/left-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/folio/left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/folio/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/folio/miniloader-neg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/folio/miniloader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/folio/right-cursor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/folio/right-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/folio/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/fullscreen/b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/fullscreen/demo-cdn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/fullscreen/demo-retina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/fullscreen/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/fullscreen/down-neg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/fullscreen/down.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/fullscreen/exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/fullscreen/fix.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/fullscreen/galleria-inline.fullscreen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/fullscreen/galleria.fullscreen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/fullscreen/galleria.fullscreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/fullscreen/i.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/fullscreen/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/fullscreen/l-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/fullscreen/l.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/fullscreen/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/fullscreen/n-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/fullscreen/n.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/fullscreen/p-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/fullscreen/p.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/fullscreen/r-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/fullscreen/r.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/fullscreen/up-neg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/fullscreen/up.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/miniml/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/miniml/bye-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/miniml/bye.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/miniml/circ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/miniml/demo-cdn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/miniml/demo-retina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/miniml/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/miniml/exit-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/miniml/exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/miniml/fs-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/miniml/fs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/miniml/galleria-inline.miniml.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/miniml/galleria.miniml.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/miniml/galleria.miniml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/miniml/info-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/miniml/info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/miniml/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/miniml/thumb-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/miniml/thumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/twelve/bar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/twelve/bg-black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/twelve/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/twelve/demo-cdn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/twelve/demo-retina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/twelve/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/twelve/fullscreen-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/twelve/fullscreen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/twelve/galleria-inline.twelve.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/twelve/galleria.twelve.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/twelve/galleria.twelve.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/twelve/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/twelve/loader_pos.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/twelve/nav-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/twelve/nav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/twelve/playpause-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/twelve/playpause.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/twelve/popout-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/twelve/popout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/twelve/separator-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/twelve/separator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/twelve/thumbs-neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/galleria-1.6.1/src/themes/twelve/thumbs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/NALC-logo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/events.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/faithfamily.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/map.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/pastor-180x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/stjohnsoutside.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/visit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/pages/location.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/pages/people.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/pages/visit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PagesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PagesController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/social.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/social.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/group-960x250.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/nalc-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/nalc-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/background.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/background.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/includes/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/includes/footer.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/includes/navbar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/includes/navbar.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/includes/social.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/includes/social.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/pages/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -307,7 +354,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/js/background.js" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -340,6 +387,7 @@
       <workItem from="1595385548532" duration="14715000" />
       <workItem from="1595463521375" duration="6254000" />
       <workItem from="1595510280175" duration="22516000" />
+      <workItem from="1595706128696" duration="47582000" />
     </task>
     <servers />
   </component>
@@ -369,11 +417,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="298" y="251" key="#SCSS_Lint/0.0.1536.824@0.0.1536.824" timestamp="1595429577690" />
-    <state x="349" y="158" key="FileChooserDialogImpl" timestamp="1595529548927">
+    <state x="349" y="158" key="FileChooserDialogImpl" timestamp="1595707300898">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="349" y="158" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1595465612561" />
-    <state x="349" y="158" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595529548927" />
+    <state x="349" y="158" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595707300898" />
     <state width="1068" height="202" key="GridCell.Tab.0.bottom" timestamp="1595463495637">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -399,20 +447,13 @@
     </state>
     <state x="78" y="62" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1595465629904" />
     <state x="78" y="62" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595529585084" />
-    <state x="107" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1595539493421">
+    <state x="468" y="216" key="run.anything.popup" timestamp="1595790253539">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="107" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1595539493421" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/resources/views/pages/gallery.blade.php</url>
-          <line>9</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="468" y="216" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1595790253539" />
+    <state x="106" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1595773931592">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="106" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1595773931592" />
   </component>
 </project>
