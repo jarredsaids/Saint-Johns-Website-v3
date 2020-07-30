@@ -12,6 +12,7 @@ git clone https://github.com/jarredsaids/Saint-Johns-Website-v3
 composer install
 cp .env.example .env
 php artisan key:generate
+mkdir "Event4" in public\Events folder
 
 # generate front-end assets
 npm install
