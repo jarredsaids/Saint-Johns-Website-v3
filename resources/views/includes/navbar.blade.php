@@ -56,7 +56,7 @@
                 </div>
             </li>
             <li class="mt-2">
-                <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="blank">
 
                     <!-- Identify your business so that you can collect the payments. -->
                     <input type="hidden" name="Saint John's Lutheran Church"
